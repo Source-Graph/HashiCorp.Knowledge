@@ -1,3 +1,7 @@
+Intro:
+- [Introduction to HashiCorp Consul with Armon Dadgar](https://youtu.be/mxeMdl0KvBI)
+
+Course:
 - [Consul Service Mesh: Deep Dive](https://youtu.be/Aq1uTozNajI)
 
 playlist:
