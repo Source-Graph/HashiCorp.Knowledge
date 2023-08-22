@@ -16,6 +16,9 @@ sch: https://www.google.com/search?q=ubuntu+ubiquity+preseed+pkgsel
 
 ## openssh-server
 discuss:
-- https://ubuntuforums.org/showthread.php?t=2467953
 - https://askubuntu.com/questions/1317770/how-to-install-openssh-server-during-the-install-process
 - https://askubuntu.com/questions/935565/install-openssh-server-package-from-preseed-file
+
+## Solution!:
+- [[SOLVED] Install extra packages with preseed](https://ubuntuforums.org/showthread.php?t=2467953)
+- [Thread: Recommended way to mass deploy Ubuntu desktop](https://ubuntuforums.org/showthread.php?t=2467323)
