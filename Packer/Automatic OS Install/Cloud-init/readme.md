@@ -1,7 +1,7 @@
 sch: https://www.google.com/search?q=cloud-init+ubuntu
 
 # Home: https://cloud-init.io/
-https://ubuntu.com/server/docs/install/autoinstall
+Ubuntu - Automated Server installation](https://ubuntu.com/server/docs/install/autoinstall)
 
 ## Doc:
 - https://cloudinit.readthedocs.io/en/latest/reference/datasources/nocloud.html
