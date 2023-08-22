@@ -7,5 +7,3 @@ note: https://ubuntuforums.org/showthread.php?t=2467953&p=14065483#post14065483
 
 - [How-To: Make Ubuntu Autoinstall ISO with Cloud-init](https://www.pugetsystems.com/labs/hpc/How-To-Make-Ubuntu-Autoinstall-ISO-with-Cloud-init-2213/)
 >[This article was the solution in the end: https://www.pugetsystems.com/labs/](https://ubuntuforums.org/showthread.php?t=2467953&page=5&p=14064829#post14064829)
-
-- [Perfect Proxmox Template with Cloud Image and Cloud Init](https://youtu.be/shiIi38cJe4)
