@@ -9,7 +9,13 @@ https://ubuntu.com/server/docs/install/autoinstall
 # Ubiquity
 sch: https://www.google.com/search?q=ubuntu+ubiquity+preseed
 
-## wiki
+## wiki:
 https://wiki.ubuntu.com/UbiquityAutomation
 - https://wiki.ubuntu.com/DesktopCDOptions
 - https://wiki.ubuntu.com/Ubiquity
+
+# extra packages
+sch: https://www.google.com/search?q=ubuntu+ubiquity+preseed+pkgsel
+
+discuss:
+- https://ubuntuforums.org/showthread.php?t=2467953
