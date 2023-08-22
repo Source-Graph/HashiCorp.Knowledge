@@ -1,6 +1,3 @@
-Automatic OS Install
-https://developer.hashicorp.com/packer/guides/automatic-operating-system-installs
-
 # Ubuntu.
 # Server
 https://ubuntu.com/server/docs/install/autoinstall
@@ -21,3 +18,4 @@ sch: https://www.google.com/search?q=ubuntu+ubiquity+preseed+pkgsel
 discuss:
 - https://ubuntuforums.org/showthread.php?t=2467953
 - https://askubuntu.com/questions/1317770/how-to-install-openssh-server-during-the-install-process
+- https://askubuntu.com/questions/935565/install-openssh-server-package-from-preseed-file
