@@ -15,5 +15,5 @@ https://www.debian.org/releases/stretch/amd64/apbs03.html.en
 >However, a file generated in this manner will have some items that should not be preseeded
 
 # install Additional Packages
-[B.4.10. Package selection](https://www.debian.org/releases/stretch/amd64/apbs04.html.en)
+[B.4.10. Package selection](https://www.debian.org/releases/stretch/amd64/apbs04.html.en#preseed-pkgsel)
 >If you want to install some individual packages in addition to packages installed by tasks, you can use the parameter pkgsel/include. The value of this parameter can be a list of packages separated by either commas or spaces
