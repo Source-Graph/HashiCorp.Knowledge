@@ -12,5 +12,5 @@ else:
 - [How I Automatically Provision Instances With No Build Pipeline Using Cloud-Init](https://youtu.be/8rRLjML68dQ)
 - [Getting Started with cloud-init](https://youtu.be/exeuvgPxd-E)
 
-- [How-To: Make Ubuntu Autoinstall ISO with Cloud-init](https://www.pugetsystems.com/labs/hpc/How-To-Make-Ubuntu-Autoinstall-ISO-with-Cloud-init-2213/)
+https://www.pugetsystems.com/labs/hpc/How-To-Make-Ubuntu-Autoinstall-ISO-with-Cloud-init-2213/
 >[This article was the solution in the end: https://www.pugetsystems.com/labs/](https://ubuntuforums.org/showthread.php?t=2467953&page=5&p=14064829#post14064829)
