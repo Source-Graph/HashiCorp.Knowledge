@@ -1,0 +1,1 @@
+- [LXD instance configuration with cloud-init](https://youtu.be/8OCG15TAldI)
