@@ -5,7 +5,7 @@ Doc:
 - https://cloudinit.readthedocs.io/en/latest/reference/datasources/nocloud.html
 - https://cloudinit.readthedocs.io/en/latest/reference/modules.html
 
-## Autoinstall
+# Autoinstall
 Home: [Ubuntu, Automated Server installation](https://ubuntu.com/server/docs/install/autoinstall)
 
 Doc:
