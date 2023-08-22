@@ -1,9 +1,9 @@
-# Proxmox, Cloud-init & Terraform
-- [Proxmox virtual machine *automation* in Terraform](https://youtu.be/dvyeoDBUtsU)
-
 # Proxmox, Cloud-init & Packer
 - [Create VMs on Proxmox in Seconds!](https://youtu.be/1nf3WOEFq1Y)
   - relation: [AutoInstall](https://ubuntu.com/server/docs/install/autoinstall)
+
+# Proxmox, Cloud-init & Terraform
+- [Proxmox virtual machine *automation* in Terraform](https://youtu.be/dvyeoDBUtsU)
 
 else:
 - [Perfect Proxmox Template with Cloud Image and Cloud Init](https://youtu.be/shiIi38cJe4)
