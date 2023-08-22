@@ -1,1 +1,7 @@
 sch: https://www.google.com/search?q=cloud-init+ubuntu
+
+# Doc:
+https://ubuntu.com/server/docs/install/autoinstall
+
+# discuss:
+- https://ubuntuforums.org/showthread.php?t=2467953&p=14064285#post14064285
