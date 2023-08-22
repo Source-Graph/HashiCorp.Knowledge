@@ -7,6 +7,8 @@ Cloud-init is the New standard way to automate installs! debian's d-i preseed is
 # Server
 https://ubuntu.com/server/docs/install/autoinstall
 
+- https://help.ubuntu.com/community/ServerGUI
+
 # Desktop
 ## recommended: [install Desktop on server](https://ubuntuforums.org/showthread.php?t=2467953&p=14064676#post14064676)
 >On Server Edition, you can go full or minimal. Minimal would be core services:
