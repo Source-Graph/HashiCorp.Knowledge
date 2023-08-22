@@ -5,6 +5,9 @@ https://ubuntu.com/server/docs/install/autoinstall
 
 # Desktop
 ## [install Desktop on server:](https://ubuntuforums.org/showthread.php?t=2467953&p=14064676#post14064676)
+>On Server Edition, you can go full or minimal. Minimal would be core services:
+>
+>Package openssh-server is a default installation application... Add package ubuntu-desktop. I install from that ISO because of that one difference. From that ISO, I can deploy any flavor or variant. And if it is going to be visualized, I can use cloud init, to help it along.
 
 ## Ubiquity
 sch: https://www.google.com/search?q=ubuntu+ubiquity+preseed
