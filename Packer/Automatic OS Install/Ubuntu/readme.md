@@ -17,7 +17,7 @@ https://wiki.ubuntu.com/UbiquityAutomation
 ## extra packages
 sch: https://www.google.com/search?q=ubuntu+ubiquity+preseed+pkgsel
 
-### openssh-server
+## openssh-server
 discuss:
 - https://ubuntuforums.org/showthread.php?t=2467953
 - https://askubuntu.com/questions/1317770/how-to-install-openssh-server-during-the-install-process
