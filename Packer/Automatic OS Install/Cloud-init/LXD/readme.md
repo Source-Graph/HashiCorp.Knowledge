@@ -1,1 +1,2 @@
 - [LXD instance configuration with cloud-init](https://youtu.be/8OCG15TAldI)
+- [Install Docker in an LXD virtual machine using cloud-init](https://youtu.be/0C467DB_gM4)
