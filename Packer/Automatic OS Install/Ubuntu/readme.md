@@ -6,7 +6,10 @@ https://developer.hashicorp.com/packer/guides/automatic-operating-system-install
 https://ubuntu.com/server/docs/install/autoinstall
 
 # Desktop
-## Ubiquity Preseed
+# Ubiquity
 sch: https://www.google.com/search?q=ubuntu+ubiquity+preseed
 
-wiki: https://wiki.ubuntu.com/UbiquityAutomation
+## wiki
+https://wiki.ubuntu.com/UbiquityAutomation
+- https://wiki.ubuntu.com/DesktopCDOptions
+- https://wiki.ubuntu.com/Ubiquity
