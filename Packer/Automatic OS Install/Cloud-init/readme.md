@@ -18,3 +18,6 @@ Home: https://github.com/covertsh/ubuntu-autoinstall-generator
 
 discuss:
 - https://ubuntuforums.org/showthread.php?t=2467953&page=4&p=14064805#post14064805
+
+# University.
+- [Getting Started with cloud-init](https://youtu.be/exeuvgPxd-E)
