@@ -5,3 +5,4 @@ https://ubuntu.com/server/docs/install/autoinstall
 
 # discuss:
 - https://ubuntuforums.org/showthread.php?t=2467953&p=14064285#post14064285
+- https://ubuntuforums.org/showthread.php?t=2467953&p=14064781#post14064781
