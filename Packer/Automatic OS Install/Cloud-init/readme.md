@@ -14,12 +14,5 @@ https://ubuntu.com/server/docs/install/autoinstall
 >[This article was the solution in the end: https://www.pugetsystems.com/labs/hp...oud-init-2213/](https://ubuntuforums.org/showthread.php?t=2467953&page=5&p=14064829#post14064829)
 
 
-# Ubuntu Autoinstall Generator
-Home: https://github.com/covertsh/ubuntu-autoinstall-generator
->A script to generate a fully-automated ISO image for installing Ubuntu onto a machine without human interaction. This uses the new autoinstall method.
-
-discuss:
-- https://ubuntuforums.org/showthread.php?t=2467953&page=4&p=14064805#post14064805
-
 # University.
 - [Getting Started with cloud-init](https://youtu.be/exeuvgPxd-E)
