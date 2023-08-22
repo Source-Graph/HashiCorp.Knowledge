@@ -4,6 +4,7 @@
 
 # Proxmox, Cloud-init & Terraform
 - [Proxmox virtual machine *automation* in Terraform](https://youtu.be/dvyeoDBUtsU)
+- [proxmox, cloud-init, terraform, ansible, semaphore demo](https://youtu.be/Kz7F_GrXM3E)
 
 else:
 - [Perfect Proxmox Template with Cloud Image and Cloud Init](https://youtu.be/shiIi38cJe4)
