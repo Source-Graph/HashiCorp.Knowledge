@@ -14,11 +14,12 @@ https://wiki.ubuntu.com/UbiquityAutomation
 ## extra packages
 sch: https://www.google.com/search?q=ubuntu+ubiquity+preseed+pkgsel
 
-## openssh-server
+# openssh-server
 discuss:
 - https://askubuntu.com/questions/1317770/how-to-install-openssh-server-during-the-install-process
 - https://askubuntu.com/questions/935565/install-openssh-server-package-from-preseed-file
 
 ## Solution!:
-- [[SOLVED] Install extra packages with preseed](https://ubuntuforums.org/showthread.php?t=2467953)
-- [Thread: Recommended way to mass deploy Ubuntu desktop](https://ubuntuforums.org/showthread.php?t=2467323)
+- 2021 [[SOLVED] Install extra packages with preseed](https://ubuntuforums.org/showthread.php?t=2467953)
+  - relation: [Thread: Recommended way to mass deploy Ubuntu desktop](https://ubuntuforums.org/showthread.php?t=2467323)
+- 2019 [[SOLVED] Preseed: cannot install openssh](https://ubuntuforums.org/archive/index.php/t-2411842.html)
