@@ -9,6 +9,7 @@ note: https://ubuntuforums.org/showthread.php?t=2467953&p=14065483#post14065483
 - [Simplifying First-boot Experience for Your Cloud VMs with Cloud-init - Ashish Sahu, Microsoft](https://youtu.be/piZU2VzAH8o)
 
 else:
+- [How I Automatically Provision Instances With No Build Pipeline Using Cloud-Init](https://youtu.be/8rRLjML68dQ)
 - [Getting Started with cloud-init](https://youtu.be/exeuvgPxd-E)
 
 - [How-To: Make Ubuntu Autoinstall ISO with Cloud-init](https://www.pugetsystems.com/labs/hpc/How-To-Make-Ubuntu-Autoinstall-ISO-with-Cloud-init-2213/)
