@@ -1,11 +1,15 @@
 sch: https://www.google.com/search?q=cloud-init+ubuntu
 
 # Home: https://cloud-init.io/
-Ubuntu - Automated Server installation](https://ubuntu.com/server/docs/install/autoinstall)
-
-## Doc:
+Doc:
 - https://cloudinit.readthedocs.io/en/latest/reference/datasources/nocloud.html
 - https://cloudinit.readthedocs.io/en/latest/reference/modules.html
+
+## Autoinstall
+Home: Ubuntu, Automated Server installation](https://ubuntu.com/server/docs/install/autoinstall)
+
+Doc:
+- https://ubuntu.com/server/docs/install/autoinstall-reference
 
 # discuss:
 - https://ubuntuforums.org/showthread.php?t=2467953&p=14064285#post14064285
