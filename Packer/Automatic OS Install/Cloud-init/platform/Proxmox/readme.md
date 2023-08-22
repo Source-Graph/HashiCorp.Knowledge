@@ -1,5 +1,6 @@
 # Proxmox, Cloud-init & Packer
 - [Create VMs on Proxmox in Seconds!](https://youtu.be/1nf3WOEFq1Y)
+  - source: [christianlempa/boilerplates/packer/proxmox](https://github.com/christianlempa/boilerplates/tree/main/packer/proxmox)
   - relation: [AutoInstall](https://ubuntu.com/server/docs/install/autoinstall)
 
 # Proxmox, Cloud-init & Terraform
